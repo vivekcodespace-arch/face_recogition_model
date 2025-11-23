@@ -42,3 +42,4 @@ sudo apt-get install python-opencv
 ![Result](https://github.com/aakashjhawar/face-recognition-using-opencv/blob/master/images/output1.png)
 
 
+# face_recogition_model
